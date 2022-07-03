@@ -7,7 +7,7 @@
 # IP-CIDR: 7
 # PROCESS-NAME: 2
 # TOTAL: 112
-playload:
+payload:
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
   - DOMAIN-KEYWORD,adsage
