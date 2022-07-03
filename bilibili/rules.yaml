@@ -1,3 +1,5 @@
+# bilibili file
+
 payload:
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -109,5 +111,6 @@ payload:
   - IP-CIDR,120.92.113.99/32
   - IP-CIDR,120.92.153.217/32
   - IP-CIDR,134.175.207.130/32
-  - PROCESS-NAME,com.bilibili.app.in
-  - PROCESS-NAME,tv.danmaku.bili
+  - IP-CIDR,203.107.1.65
+  - IP-CIDR,120.92.145.188
+
