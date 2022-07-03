@@ -1,3 +1,5 @@
+#proxy file
+
 payload:
  - DOMAIN-SUFFIX,acl4.ssr
  - DOMAIN-SUFFIX,ip6-localhost
